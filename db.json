@@ -1,26 +1,65 @@
-{
-  "spices": [
-    {"id": 1, "name": "Black Pepper"},
-    {"id": 2, "name": "Cumin"},
-    {"id": 3, "name": "Turmeric"},
-    {"id": 4, "name": "Cinnamon"},
-    {"id": 5, "name": "Red Pepper"},
-    {"id": 6, "name": "Coriander"},
-    {"id": 7, "name": "Mint"},
-    {"id": 8, "name": "Cardamom"},
-    {"id": 9, "name": "Mustard Seeds"},
-    {"id": 10, "name": "Sumac"}
-  ],
-  "soaps": [
-    {"id": 1, "name": "Lavender Scented Soap"},
-    {"id": 2, "name": "Olive Oil Soap"},
-    {"id": 3, "name": "Oatmeal and Honey Soap"},
-    {"id": 4, "name": "Rose Scented Soap"},
-    {"id": 5, "name": "Coffee Bean Soap"},
-    {"id": 6, "name": "Lemon Essence Soap"},
-    {"id": 7, "name": "Vanilla and Cocoa Soap"},
-    {"id": 8, "name": "Argan Oil Soap"},
-    {"id": 9, "name": "Sage and Olive Leaf Soap"},
-    {"id": 10, "name": "Green Tea Soap"}
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Spices",
+    "items": [
+      {
+        "id": 1,
+        "name": "Black Pepper",
+        "items": []
+      },
+      {
+        "id": 2,
+        "name": "Cumin",
+        "items": []
+      },
+      {
+        "id": 3,
+        "name": "Turmeric",
+        "items": []
+      },
+      {
+        "id": 4,
+        "name": "Cinnamon",
+        "items": []
+      },
+
+      {
+        "id": 5,
+        "name": "Sumac",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Soaps",
+    "items": [
+      {
+        "id": 1,
+        "name": "Lavender Scented Soap",
+        "items": []
+      },
+      {
+        "id": 2,
+        "name": "Olive Oil Soap",
+        "items": []
+      },
+      {
+        "id": 3,
+        "name": "Oatmeal and Honey Soap",
+        "items": []
+      },
+      {
+        "id": 4,
+        "name": "Rose Scented Soap",
+        "items": []
+      },
+      {
+        "id": 5,
+        "name": "Coffee Bean Soap",
+        "items": []
+      }
+    ]
+  }
+]
