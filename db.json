@@ -9,30 +9,45 @@
             "id": 1,
             "name": "Black Pepper",
             "photoUrl": "https://cdn.pixabay.com/photo/2020/08/19/15/32/pepper-5501218_1280.jpg",
+            "price": "₺330",
+            "unit": "1kg, Price",
+            "description": "Black Pepper, scientifically known as Piper nigrum, is one of the most widely used and popular spices in the world. Native to the Malabar Coast of India, black pepper is derived from the dried, unripe berries of the pepper plant. Renowned for its pungent and spicy flavor, black pepper has been a crucial component in culinary traditions for centuries. Its distinctive taste comes from the compound piperine, which not only adds depth to various dishes but also boasts potential health benefits. Beyond its culinary uses, black pepper has played a significant role in ancient trade routes, making it a highly valued commodity throughout history.\\nIn addition to its culinary significance, black pepper is celebrated for its potential health-promoting properties. Piperine, the active compound in black pepper, has been studied for its antioxidant and anti-inflammatory effects. Some research suggests that black pepper may aid digestion by stimulating the production of digestive enzymes. Moreover, black pepper has been a traditional remedy in certain cultures for its potential to alleviate respiratory issues and enhance nutrient absorption. Whether gracing the dining table or contributing to holistic wellness, black pepper remains a timeless and versatile spice cherished across diverse cultures and cuisines.",
             "items": []
           },
           {
             "id": 2,
             "name": "Cumin",
             "photoUrl": "https://cdn.pixabay.com/photo/2020/07/06/14/14/cumin-5377177_1280.jpg",
+            "price": "₺327",
+            "unit": "1kg, Price",
+            "description": "Cumin, scientifically known as Cuminum cyminum, is an aromatic spice that has been an integral part of global cuisine for centuries. Originating from the Eastern Mediterranean and Upper Egypt, cumin is recognized for its warm, earthy flavor and distinctive aroma. The spice is derived from the seeds of the cumin plant and is commonly used in both ground and whole seed forms. Cumin's culinary versatility is evident in its prevalence in cuisines ranging from Indian and Middle Eastern to Latin American. Its warm and slightly nutty taste adds depth to dishes, making it a staple in spice blends, curries, stews, and various savory recipes.\\nBeyond its culinary appeal, cumin has been associated with potential health benefits. The spice contains compounds like cuminaldehyde and thymol, which exhibit antioxidant and antimicrobial properties. Cumin has historically been used in traditional medicine for its digestive benefits, believed to aid in relieving indigestion and bloating. Additionally, some studies suggest that cumin may have anti-inflammatory effects and contribute to improved cholesterol levels. As cumin continues to be cherished for its rich flavor and potential health advantages, it remains a key player in kitchens worldwide, enhancing the culinary experience with its aromatic and flavorful profile.",
             "items": []
           },
           {
             "id": 3,
             "name": "Turmeric",
             "photoUrl": "https://cdn.pixabay.com/photo/2017/08/08/23/19/spices-2613032_1280.jpg",
+            "price": "₺150",
+            "unit": "1kg, Price",
+            "description": "Turmeric, scientifically known as Curcuma longa, is a vibrant yellow spice celebrated for both its culinary and medicinal properties. Native to South Asia, turmeric has been a fundamental ingredient in traditional cuisines, particularly in Indian and Southeast Asian dishes. The spice is derived from the rhizomes of the turmeric plant and contains the active compound curcumin, which gives it its characteristic golden color. Known for its warm, slightly bitter taste, turmeric is a versatile spice used in curries, stews, rice dishes, and even beverages like golden milk. Beyond its culinary applications, turmeric has a rich history in Ayurvedic and traditional medicine, where it has been revered for its potential anti-inflammatory and antioxidant properties.\\nIn recent years, turmeric has gained widespread attention for its potential health benefits. Curcumin, the primary bioactive compound in turmeric, is believed to have anti-inflammatory effects that may contribute to the management of various chronic conditions. Additionally, turmeric has been studied for its potential role in supporting joint health, brain function, and heart health. As interest in natural remedies and holistic wellness grows, turmeric continues to be a star player, captivating both chefs and health enthusiasts alike for its vibrant flavor and potential positive impact on well-being.",
             "items": []
           },
           {
             "id": 4,
             "name": "Cinnamon",
             "photoUrl": "https://cdn.pixabay.com/photo/2017/01/11/11/03/cinnamon-1971496_1280.jpg",
+            "price": "₺299",
+            "unit": "1kg, Price",
+            "description": "Cinnamon, derived from the inner bark of trees belonging to the Cinnamomum genus, is a fragrant and versatile spice that has left an indelible mark on culinary traditions around the world. Originating in Sri Lanka, cinnamon is now cultivated in various tropical regions, and its warm and sweet flavor profile has made it a beloved addition to both sweet and savory dishes. The spice is often used in ground or stick form, adding a distinctive aroma and rich taste to baked goods, desserts, and hot beverages. Cinnamon has a long history of use in diverse cuisines, from the spicy warmth it imparts to chai teas in India to its role as a key ingredient in classic American apple pies.\\nBeyond its culinary applications, cinnamon has been studied for potential health benefits. Cinnamaldehyde, the active compound responsible for cinnamon's flavor and aroma, exhibits antioxidant and anti-inflammatory properties. Some research suggests that cinnamon may contribute to improved blood sugar control and insulin sensitivity, making it of interest in the context of metabolic health. As a spice that not only delights the senses but also offers potential health advantages, cinnamon continues to be a beloved and versatile ingredient in kitchens worldwide.",
             "items": []
           },
   
           {
             "id": 5,
             "name": "Sumac",
+            "price": "₺135",
+            "unit": "1kg, Price",
+            "description": "Sumac, derived from the berries of the sumac shrub, is a unique and versatile spice that adds a tangy, lemony flavor to dishes. While there are various species of sumac, the most commonly used for culinary purposes is Rhus coriaria. Originating from the Middle East, sumac has found its way into a variety of global cuisines, imparting a bright and citrusy taste to salads, meats, and rice dishes. Sumac is often used in ground form, and its vibrant red color adds not only a burst of flavor but also a visually appealing element to a wide range of culinary creations.\\nApart from its culinary uses, sumac has been valued for its potential health benefits. It contains compounds like flavonoids and tannins, which exhibit antioxidant and anti-inflammatory properties. In traditional medicine, sumac has been utilized for its potential to aid digestion and boost the immune system. As the appreciation for diverse and exotic flavors grows, sumac has gained popularity as a spice that not only elevates the taste of dishes but also brings a touch of the Mediterranean and Middle Eastern culinary heritage to kitchens around the world.",
             "items": []
           }
         ]
@@ -46,30 +61,45 @@
             "id": 1,
             "name": "Lavender Scented Soap",
             "photoUrl": "https://img.freepik.com/free-photo/lavender-soap-arrangement-with-copy-space_23-2148799498.jpg?w=740&t=st=1702648355~exp=1702648955~hmac=dfcabc125883cc6b2e3b6686bb2a69ecdb109c20e28f1def35b42aeb197bb2f2",
+            "price": "₺65",
+            "unit": "1pc, Price",
+            "description": "Lavender-scented soap offers a delightful and calming sensory experience that goes beyond simple cleansing. Lavender, known for its aromatic and soothing properties, has been a cherished botanical in the realm of personal care for centuries. When infused into soap, its gentle fragrance creates a spa-like atmosphere, transforming an everyday routine into a luxurious self-care ritual. The lavender scent not only leaves a lingering freshness on the skin but also has the potential to promote relaxation and reduce stress, making it a popular choice for those seeking a serene and tranquil bathing experience.\\nIn addition to its aromatic appeal, lavender-scented soap often incorporates the natural benefits of lavender essential oil. Lavender is renowned for its antibacterial and antimicrobial properties, contributing to the soap's ability to cleanse and refresh the skin effectively. The gentle cleansing properties, combined with the calming aroma, make lavender-scented soap a sought-after choice for individuals looking to pamper themselves with a touch of nature's serenity during their daily skincare routine.",
             "items": []
           },
           {
             "id": 2,
             "name": "Olive Oil Soap",
             "photoUrl": "https://img.freepik.com/free-photo/front-view-argan-product-assortment_23-2148955778.jpg?w=740&t=st=1702648448~exp=1702649048~hmac=293ec885ae756934318aa01823c649935326dc2fa2ccca233d916e607836ce3a",
+            "price": "₺76",
+            "unit": "1pc, Price",
+            "description": "Olive oil soap, a timeless classic in the world of skincare, has been celebrated for its nourishing properties and gentle cleansing for centuries. Crafted from the pure essence of pressed olives, this soap provides a natural and luxurious way to care for the skin. Olive oil, rich in antioxidants and moisturizing fatty acids, not only cleanses but also helps to maintain the skin's hydration, leaving it feeling soft and supple. The soap's mild nature makes it suitable for various skin types, including sensitive skin, and its creamy lather offers a soothing and indulgent bathing experience.\\nBeyond its hydrating benefits, olive oil soap is often lauded for its potential to address various skin concerns. The antioxidants present in olive oil may contribute to the soap's anti-aging properties, helping to combat free radicals and promote a more youthful complexion. Additionally, its gentle formula makes it an excellent choice for those prone to skin irritation or conditions such as eczema. As a symbol of natural skincare, olive oil soap continues to be a staple in beauty routines, cherished for its simplicity, purity, and the nourishing care it brings to the skin.",
             "items": []
           },
           {
             "id": 3,
             "name": "Oatmeal and Honey Soap",
             "photoUrl": "https://img.freepik.com/free-photo/soap-honey-comb-arrangement_23-2148897623.jpg?w=1380&t=st=1702648420~exp=1702649020~hmac=185f63c7479ce2ae1e15e25bf2bd21d47d2fe3c1987854342ee797ff5be0465e",
+            "price": "₺65",
+            "unit": "1pc, Price",
+            "description": "Oatmeal and honey soap combines the wholesome goodness of two natural ingredients to create a skincare product that is both nurturing and indulgent. Oatmeal, known for its soothing properties, provides gentle exfoliation and helps to calm irritated skin. Paired with the natural sweetness of honey, which has moisturizing and antibacterial qualities, this soap becomes a harmonious blend that not only cleanses but also pampers the skin. The finely ground oatmeal in the soap acts as a mild exfoliant, removing dead skin cells and leaving the skin feeling soft and refreshed, while honey adds a touch of sweetness and promotes a healthy, radiant complexion.\\nThis soap is often sought after for its potential to address various skincare concerns. The combination of oatmeal and honey makes it an excellent choice for individuals with sensitive or dry skin, providing relief from itchiness and promoting overall skin well-being. With its natural and wholesome ingredients, oatmeal and honey soap offers a delightful bathing experience that goes beyond cleansing, leaving the skin with a subtle fragrance and a nourished, revitalized feeling.",
             "items": []
           },
           {
             "id": 4,
             "name": "Rose Scented Soap",
             "photoUrl": "",
+            "price": "₺47",
+            "unit": "1pc, Price",
+            "description": "Rose-scented soap is a luxurious and enchanting addition to the world of skincare, capturing the timeless allure of the delicate rose flower. The fragrance of rose has been cherished for centuries for its romantic and soothing qualities, making it a popular choice for those seeking a touch of elegance in their daily bathing ritual. The soap's enchanting aroma not only provides a sensory delight but also has the potential to evoke feelings of calmness and relaxation, turning a simple act of cleansing into a sensory indulgence. The essence of rose in the soap infuses the skin with a subtle floral fragrance, leaving a lingering scent that is both delicate and captivating.\\nBeyond its aromatic charm, rose-scented soap often incorporates the nourishing benefits of rose extract or essential oil. Roses are known for their natural moisturizing properties and contain antioxidants that may contribute to skin health. As a result, the soap not only cleanses but also provides a gentle and pampering experience, leaving the skin feeling refreshed and subtly perfumed. With its timeless appeal and skincare benefits, rose-scented soap remains a symbol of beauty and sophistication, inviting individuals to embrace the romance and elegance of the rose in their daily self-care routine.",
             "items": []
           },
           {
             "id": 5,
             "name": "Coffee Bean Soap",
             "photoUrl": "https://img.freepik.com/free-photo/homemade-remedy-with-coffee-beans-top-view_23-2148894288.jpg?w=1380&t=st=1702648376~exp=1702648976~hmac=7f10d644078284be8edf1ba97bf357ac1f0c8577c5d544c90ce1deb971f44283",
+            "price": "₺150",
+            "unit": "1pc, Price",
+            "description": "Coffee bean soap offers a rejuvenating and aromatic experience, harnessing the invigorating properties of coffee to create a unique skincare product. Ground coffee beans, often incorporated into the soap, act as a natural exfoliant, gently sloughing off dead skin cells and promoting a smoother complexion. The rich and robust scent of coffee permeates the soap, awakening the senses and transforming the daily shower or bath into a sensory awakening. Beyond its delightful aroma, coffee in skincare is believed to have antioxidant properties that may benefit the skin, making coffee bean soap a popular choice for those looking to revitalize and refresh their skin.\\nThe exfoliating nature of coffee bean soap makes it an excellent choice for promoting healthy-looking skin. The coffee grounds help improve circulation and may reduce the appearance of cellulite, offering a dual-action benefit for those seeking both a luxurious bathing experience and potential skincare benefits. Whether used in the morning to kickstart the day or as an indulgent treat in the evening, coffee bean soap provides a unique and invigorating twist to the conventional cleansing routine, leaving the skin feeling revitalized and subtly infused with the delightful essence of freshly brewed coffee.",
             "items": []
           }
         ]
